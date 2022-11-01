@@ -1,21 +1,35 @@
-# tecktalk
+# Tech Talk 
 
-## Design Inspirations
+**_Tech Talk_** is an open-source event by **Tim Okonkwo** and powered by **SoftAmplify Technologies**
 
-* [Inspiration 1](https://preview.colorlib.com/#evento)
-* [Inspiration 2](https://preview.colorlib.com/#eventotemplate)
-* [Inspiration 3](https://preview.colorlib.com/#umeet)
-* [Inspiration 4](https://preview.colorlib.com/#event)
-* [Inspiration 5](https://www.elegantthemes.com/layouts/events/virtual-conference-landing-page/live-demo)
-* [Inspiration 6](https://www.elegantthemes.com/layouts/technology/video-game-landing-page)
+At tech talk, those wanting to get into tech and those already in tech are taught how to start, navigate and build a flawless career in tech by industry tech (code and no-code) professionals from the leading tech giants - Microsoft, Meta, Apple, Amazon, Netflix, Google and many other top companies.
 
+Tech Talk is designed for the purpose of creating awareness in the _Tech_ field and also to help techies and non-techies to learn how to start and manage their careers in tech.
 
+**Tech Talk** is not only about talks alone. It also features opportunities for developers and non-developers in tech.
+
+## Tech Talk Guests
+- Tech Founders
+- Senior Software Engineers
+- Recruiters
+- Product designers - UI/UX Desginers
+- Open source advocates
+- Developer advocates
+- Etc
+
+## Tech Talk Attendees
+- Aspiring developers (code and no-code)
+- Junior and senior developers (code and no-code)
+- Product designers
+- Recruiters
+- Anyone with keen interest in tech
 
 ## How to contribute
+Below is a guide on how to contribute to the **_TechTalk_** project:
 
-* Fork the Poject
+* Fork the Project
 
-* Clone the project
+* Clone the Project
 
 ```bash
   git clone https://github.com/your-username/techtalk
@@ -29,13 +43,13 @@
 
 * Make changes or create a new landing page entirely
 
-* integrate your changes
+* Stage your changes
 
 ```bash
   git add . && git commit -m "your commit message"
 ```
 
-* Push to your copy of the project
+* Push to your copy of the project (ie The one you forked)
 
 ```bash
   git push 
@@ -46,5 +60,5 @@
 And that's it. You've made your open source contribution to tech talk
 
 
-
+## Last edition of tech talk
 ![Techtalk 6.0](./img/techtalk6.0.jpg)
